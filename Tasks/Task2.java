@@ -8,7 +8,7 @@ public class Task2 {
         float f = 2.0f;
         boolean flag = true;
 
-        String output = letter + 1"" + b + s + i + " wOrld " + f + " " + flag;
+        String output = letter + "" + b + s + i + " wOrld " + f + " " + flag;
         System.out.println(output);
     }
 }
